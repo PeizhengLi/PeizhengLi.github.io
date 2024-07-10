@@ -1,15 +1,34 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- I am a Research Engineer at the Bristol Research and Innovation Laboratory (BRIL) at Toshiba Research Europe Ltd. I received my Ph.D. in wireless communications from the University of Bristol, U.K., in 2023. Prior to that, I earned an M.Sc. (Hons.) in image and video communications and signal processing from the University of Bristol in 2019, and a B.Eng. in optoelectronic information engineering from the Nanjing University of Posts and Telecommunications, Nanjing, China, in 2015. -->
 
-Peizheng Li website test
+
+<!-- I completed my undergraduate studies in optoelectronic information engineering from the [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/), Nanjing, China, in 2015. After graduation, I worked as an Electronic Engineer at [Tianma Microelectronics Co. LTD.](https://www.tianma.cn/), Shanghai, China, for 3 years. In September 2018, I joined [University of Bristol](https://www.bristol.ac.uk/), where I earned an M.Sc. (Hons.) in image and video communications and signal processing. From September 2019 to December 2022, I was with the [Communication Systems and Networks Group](https://www.bristol.ac.uk/engineering/research/csn/facilities.html), and received my Ph.D. in wireless communications. Afterward, In January 2023, I joined the Bristol Research and Innovation Laboratory ([BRIL](https://www.toshiba.eu/pages/eu/Bristol-Research-and-Innovation-Laboratory/)) at Toshiba Research Europe Ltd, working as a Research Engineer. -->
+
+I completed my undergraduate studies in optoelectronic information engineering from the [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/), Nanjing, China, in 2015. After graduation, I worked as an Electronic Engineer at [Tianma Microelectronics Co. LTD.](https://www.tianma.cn/), Shanghai, China, for three years. In September 2018, I joined the [University of Bristol (UoB)](https://www.bristol.ac.uk/), where I earned an M.Sc. (Hons.) in image and video communications and signal processing. From September 2019 to December 2022, I was with the [Communication Systems and Networks Group](https://www.bristol.ac.uk/engineering/research/csn/facilities.html), UoB, and received my Ph.D. in wireless communications.
+
+In January 2023, I joined the [Bristol Research and Innovation Laboratory (BRIL)](https://www.toshiba.eu/pages/eu/Bristol-Research-and-Innovation-Laboratory/)at Toshiba Research Europe Ltd, working as a Research Engineer.
+
+I am passionate about research and development in future B5G and 6G wireless and networking systems.
+
+
+Currently, I am involved in the [6G-GOALS](https://www.6g-goals.eu/) and [TUDOR](https://uktin.net/navigate-uk-telecoms/government-funded-projects/tudor) projects. My research interests include non-terrestrial networks, semantic communication, Open RAN, and machine learning.
+
+Previously, I contributed to several UK projects, including [NG-CDI](https://www.ng-cdi.org/), [AIMM](https://aimm.celticnext.eu/), and [BEACON-5G](https://www.beacon-5g.com/), focusing on digital twins, reinforcement learning, and model lifecycle management. Additionally, I have a strong interest in radio indoor localization, IoT, and robotics systems.
+
+
+
+<!-- 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- Peizheng Li website test pingping
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +65,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
